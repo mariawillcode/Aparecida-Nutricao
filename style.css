@@ -1,0 +1,20 @@
+    body {
+        background: #CCCCCC;
+    } 
+
+    h1 {
+        text-align: center;
+    }
+
+    p {
+        text-align: center;
+        background: #CCCCCC;
+    }
+
+    #missao {
+        font-size: 20px
+    }
+
+    en strong {
+        color: red;
+    }
